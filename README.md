@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yosoyx
-- 👀 I’m interested in low-code mp-code platforms and tools
+- 👀 I’m interested in low-code no-code platforms and tools
 - 🌱 I’m currently learning Github and powerapps
 - 💞️ I’m looking to collaborate on learning 
 - 📫 How to reach me : carlos@yosoyx.com
